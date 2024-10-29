@@ -1,6 +1,14 @@
 # MovieApp
 
-![image](https://github.com/user-attachments/assets/5c135c33-c7a2-424b-9b8f-60a9653a7ab0)
+![image](https://github.com/user-attachments/assets/22daf524-5511-4b1c-8abb-7f5af2182a09)
+
+![image](https://github.com/user-attachments/assets/26021d0c-86b6-4bf3-a249-132e048a066d)
+
+![image](https://github.com/user-attachments/assets/2df0217d-4b7f-47f8-b9c4-fa55ed06c5e4)
+![image](https://github.com/user-attachments/assets/6954e0a1-8b2b-498f-ab24-c0b071202b9c)
+
+
+
 
 
 ## Development server
