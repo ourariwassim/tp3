@@ -1,6 +1,7 @@
 # MovieApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
+![image](https://github.com/user-attachments/assets/5c135c33-c7a2-424b-9b8f-60a9653a7ab0)
+
 
 ## Development server
 
