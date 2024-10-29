@@ -1,0 +1,27 @@
+<div *ngIf="movie" class="bloc1">
+    <img [src]="movie.image" alt="Movie Image" class="movie-image">
+    <div class="details">
+        <h1>{{ movie.title }}</h1>
+
+        <div class="detail-item">
+            <label>Origin:</label>
+            <h3>{{ movie.original_language }}</h3>
+        </div>
+        <div class="detail-item">
+            <label>Release Date:</label>
+            <h3>{{ movie.release_date }}</h3>
+        </div>
+        <div class="detail-item">
+            <label>Average Vote:</label>
+            <h3>{{ movie.vote_average }}</h3>
+        </div>
+        <div class="detail-item">
+            <label>Vote Count:</label>
+            <h3>{{ movie.vote_count }}</h3>
+        </div>
+        <div class="detail-item">
+            <label>Overview:</label>
+            <p>{{ movie.overview }}</p>
+        </div>
+    </div>
+</div>

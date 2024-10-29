@@ -1,0 +1,36 @@
+.container{
+
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    width: 70%;
+    flex-wrap: wrap;
+    margin: 4rem auto
+
+}
+.box{
+    width: 25%;
+
+}
+a{
+    text-decoration: none;
+    transition-duration: 0.2s;
+}
+a:hover{
+    color: red;
+}
+a{
+    background-color:#F6CD0B;
+    font-size: large;
+    width: 250px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+    
+}
+img{
+    height:300px;
+    width: 250px;
+}

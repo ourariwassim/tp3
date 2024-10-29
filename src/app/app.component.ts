@@ -1,10 +1,14 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { HeadBarComponent } from "./head-bar/head-bar.component";
+import { WishlistComponent } from "./wishlist/wishlist.component";
+
+
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet],
+  imports: [RouterOutlet, HeadBarComponent, WishlistComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })

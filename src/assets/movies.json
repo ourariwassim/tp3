@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "title": "Inception",
+      "original_language": "English",
+      "release_date": "2010-07-16",
+      "vote_average": 8.8,
+      "vote_count": 2213456,
+      "overview": "A skilled thief, who commits corporate espionage by infiltrating the subconscious of his targets, is offered a chance to have his past crimes forgiven if he can implant an idea into a person's mind.",
+      "image": "assets/img/téléchargement (7).jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Interstellar",
+      "original_language": "English",
+      "release_date": "2014-11-07",
+      "vote_average": 8.6,
+      "vote_count": 1714567,
+      "overview": "A group of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "image": "assets/img/téléchargement.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "The Matrix",
+      "original_language": "English",
+      "release_date": "1999-03-31",
+      "vote_average": 8.7,
+      "vote_count": 1843980,
+      "overview": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "image": "assets/img/téléchargement (1).jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Parasite",
+      "original_language": "Korean",
+      "release_date": "2019-05-30",
+      "vote_average": 8.6,
+      "vote_count": 1048376,
+      "overview": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+      "image": "assets/img/téléchargement (2).jpeg"
+    },
+    {
+      "id": 5,
+      "title": "The Dark Knight",
+      "original_language": "English",
+      "release_date": "2008-07-18",
+      "vote_average": 9.0,
+      "vote_count": 2456845,
+      "overview": "Batman, with the help of his allies, tries to dismantle the remaining criminal organizations that plague Gotham City, but comes up against the Joker, a rising criminal mastermind.",
+      "image": "assets/img/téléchargement (3).jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Fight Club",
+      "original_language": "English",
+      "release_date": "1999-10-15",
+      "vote_average": 8.8,
+      "vote_count": 1856843,
+      "overview": "An insomniac office worker, looking for a way to change his life, crosses paths with a soap maker who holds unconventional ideas and together they create an underground fight club.",
+      "image": "assets/img/téléchargement (4).jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Pulp Fiction",
+      "original_language": "English",
+      "release_date": "1994-10-14",
+      "vote_average": 8.9,
+      "vote_count": 1935467,
+      "overview": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "image": "assets/img/téléchargement (5).jpeg"
+    },
+    {
+      "id": 8,
+      "title": "The Shawshank Redemption",
+      "original_language": "English",
+      "release_date": "1994-09-23",
+      "vote_average": 9.3,
+      "vote_count": 2567849,
+      "overview": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "image": "assets/img/téléchargement (6).jpeg"
+    },
+    {
+      "id": 9,
+      "title": "Forrest Gump",
+      "original_language": "English",
+      "release_date": "1994-07-06",
+      "vote_average": 8.8,
+      "vote_count": 1873645,
+      "overview": "The story of a man with a low IQ who becomes a war hero, a ping pong champion, and a shrimp boat captain, meeting historical figures along the way.",
+      "image": "assets/img/téléchargement (8).jpeg"
+    },
+    {
+      "id": 10,
+      "title": "The Godfather",
+      "original_language": "English",
+      "release_date": "1972-03-24",
+      "vote_average": 9.2,
+      "vote_count": 1703894,
+      "overview": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "image": "assets/img/téléchargement (9).jpeg"
+    },
+    {
+      "id": 11,
+      "title": "Gladiator",
+      "original_language": "English",
+      "release_date": "2000-05-05",
+      "vote_average": 8.5,
+      "vote_count": 1305482,
+      "overview": "A former Roman general sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "image": "assets/img/téléchargement (10).jpeg"
+    },
+    {
+      "id": 12,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "original_language": "English",
+      "release_date": "2001-12-19",
+      "vote_average": 8.8,
+      "vote_count": 1789354,
+      "overview": "A meek Hobbit and eight companions set out on a journey to destroy the One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "image": "assets/img/téléchargement (11).jpeg"
+    }
+  ]
+  

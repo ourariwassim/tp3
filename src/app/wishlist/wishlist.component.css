@@ -1,0 +1,8 @@
+.btn{
+    display: flex;
+    justify-content: space-around;
+    color:#F6CD0B;
+    background-color: black;
+    border-radius: 5px;
+    width:100px
+}

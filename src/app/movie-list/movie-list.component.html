@@ -1,0 +1,9 @@
+<app-search-bar (even)="fn($event)"></app-search-bar>
+<div *ngIf="movies" class="container" >
+    <div *ngFor="let i of movies" class="box" >
+        <img [src]="i.image" alt="">
+        <a (click)="gotodetails(i.id)">{{i.title }}</a>
+
+    </div>
+
+</div>

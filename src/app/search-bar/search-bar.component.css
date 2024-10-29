@@ -1,0 +1,18 @@
+.input1{
+    border: 2px solid #F6CD0B;
+    background-color: black;
+    border-radius: 2px;
+    color:#F6CD0B;
+}
+.icon{
+    color:#F6CD0B;
+    margin-right: 1rem;
+}
+.block1{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: right;
+    margin-right: 2rem;
+    align-items: center;
+
+}
